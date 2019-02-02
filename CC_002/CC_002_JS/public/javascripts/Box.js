@@ -24,14 +24,12 @@ function Box(x, y, z, r) {
   };
 
   this.show = function () {
-
     push();
     translate(that.pos.x, that.pos.y, that.pos.z);
     stroke(255);
     fill(30, 135, 41);
     box(that.r);
     pop();
-
   };
 
 }
