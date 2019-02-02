@@ -31,5 +31,4 @@ function Box(x, y, z, r) {
     box(that.r);
     pop();
   };
-
 }
