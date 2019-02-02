@@ -5,7 +5,7 @@ let words;
 
 function preload() {
   srcText = loadStrings('../data/linkin park.txt');
-}
+} 
 
 function diastic(seed, words) {
 
