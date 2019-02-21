@@ -1,0 +1,311 @@
+Project Gutenberg's Voyage to Jupiter, by David Morrison and Jane Samz
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Voyage to Jupiter
+
+Author: David Morrison
+        Jane Samz
+
+Release Date: February 19, 2019 [EBook #58915]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK VOYAGE TO JUPITER ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+    [Illustration: A special color reconstruction of the eruption of the
+    volcano Loki on the Jovian satellite Io. The picture was taken by
+    Voyager 1 from a range of about half a million kilometers.
+    [P-21334C]]
+
+
+
+
+                                                             NASA SP-439
+
+    [Illustration: Voyage To Jupiter]
+
+
+
+
+                           Voyage To Jupiter
+
+
+                             David Morrison
+                             and Jane Samz
+
+    [Illustration: NASA]
+
+          Scientific and Technical Information Branch    1980
+             National Aeronautics and Space Administration
+                                                          Washington, DC
+  For sale by the Superintendent of Documents
+  U.S. Government Printing Office, Washington, D.C. 20402
+  Library of Congress Catalog Card Number 80-600126
+
+
+
+
+                                FOREWORD
+
+
+Few missions of planetary exploration have provided such rewards of
+insight and surprise as the Voyager flybys of Jupiter. Those who were
+fortunate enough to be with the science teams during those weeks will
+long remember the experience; it was like being in the crow’s nest of a
+ship during landfall and passage through an archipelago of strange
+islands. We had known that Jupiter would be remarkable, for man had been
+studying it for centuries, but we were far from prepared for the torrent
+of new information that the Voyagers poured back to Earth.
+
+Some of the spirit of excitement and connection is captured in this
+volume. Its senior author was a member of the Imaging Team. It is not
+common that a person can both “do science” at the leading edge and also
+present so vivid an inside picture of a remarkable moment in the history
+of space exploration.
+
+  April 30, 1980
+                                                         Thomas A. Mutch
+                                                 Associate Administrator
+                                                 Office of Space Science
+
+
+
+
+                              INTRODUCTION
+
+
+The two Voyager encounters with Jupiter were periods unparalleled in
+degree and diversity of discovery. We had, of course, expected a number
+of discoveries because we had never before been able to study in detail
+the atmospheric motions on a planet that is a giant spinning sphere of
+hydrogen and helium, nor had we ever observed planet-sized objects such
+as the Jovian satellites Ganymede and Callisto, which are half
+water-ice. We had never been so close to a Moon-sized satellite such as
+Io, which was known to be dispersing sodium throughout its Jovian
+neighborhood and was thought to be generating a one-million-ampere
+electrical current that in some way results in billions of watts of
+radio emission from Jupiter.
+
+The closer Voyager came to Jupiter the more apparent it became that the
+scientific richness of the Jovian system was going to greatly exceed
+even our most optimistic expectations. The growing realization among
+Voyager scientists of the wealth of discovery is apparent in their
+comments, discussions, and reports as recounted by the authors in their
+descriptions of the two encounters.
+
+Although many of the discoveries occurred in the few weeks around each
+encounter, they were, of course, the result of more than those few weeks
+of effort. In fact, planning started a decade earlier, and the Voyager
+team of engineers and scientists had been designing, building, and
+planning for the encounters for seven years. The Pioneer spacecraft made
+the first reconnaissance of Jupiter in 1973-1974, providing key
+scientific results on which Voyager could build, and discoveries from
+continuing ground-based observations suggested specific Voyager studies.
+Voyager is itself just the second phase of exploration of the Jovian
+system. It will be followed by the Galileo program, which will directly
+probe Jupiter’s atmosphere and provide long-term observations of the
+Jovian system from an orbiting spacecraft. In the meantime, the Voyager
+spacecraft will continue their journey to Saturn, and possibly Uranus
+and Neptune, planets even more remote from Earth and about which we know
+even less than we knew of Jupiter before 1979.
+
+As is clearly illustrated in this recounting of the voyage to Jupiter,
+scientific endeavors are human endeavors; just as Galileo could not have
+foreseen the advancement in our knowledge initiated by his discoveries
+of the four Jovian moons in 1610, neither can we fully comprehend the
+scientific heritage that our exploration of space is providing future
+generations.
+
+  April 1980
+                                                         Edward C. Stone
+                                               Voyager Project Scientist
+
+
+
+
+                            ACKNOWLEDGEMENT
+
+
+The authors are grateful to the many members of the Voyager Project team
+who not only made this historic mission of exploration possible but also
+took time from their busy schedules to offer us assistance, information,
+and encouragement in the preparation of this book. Among many too
+numerous to name individually, we particularly thank E. C. Stone, A. L.
+Lane, C. H. Stembridge, R. A. Mills, E. Montoya, M. A. Mitz, and B. A.
+Smith, L. Soderblom, and their colleagues on the Voyager Imaging Team.
+We are grateful to F. E. Bristow, D. L. Bane, L. J. Pieri and especially
+J. J. Van der Woude for their assistance in obtaining optimum versions
+of the photographs printed here. C. B. Pilcher and I. de Pater kindly
+made available their groundbased pictures of the Jovian magnetosphere.
+Many colleagues have read and provided helpful comments on parts of the
+manuscript, among them G. A. Briggs, S. A. Collins, S. Cruikshank, J.
+Doughty, A. L. Guin, A. L. Lane, R. A. Mills, E. Montoya, E. C. Stone,
+J. L. Ward, and especially C. R. Chapman.
+
+
+
+
+                                CONTENTS
+
+
+  Foreword                                                              v
+  Introduction                                                        vii
+  Acknowledgment                                                       ix
+  Chapter 1. The Jovian System                                          1
+  Chapter 2. Pioneers to Jupiter                                       11
+  Chapter 3. The Voyager Mission                                       23
+  Chapter 4. Science and Scientists                                    33
+  Chapter 5. The Voyage to Jupiter—Getting There                       47
+  Chapter 6. The First Encounter                                       63
+  Chapter 7. The Second Encounter: More Surprises From the “Land” of
+          the Giant                                                    93
+  Chapter 8. Jupiter—King of the Planets                              117
+  Chapter 9. Four New Worlds                                          139
+  Chapter 10. Return to Jupiter                                       169
+  Appendix A. Pictorial Maps of the Galilean Satellites               177
+  Appendix B. Voyager Science Teams                                   195
+  Appendix C. Voyager Management Team                                 197
+  Additional Reading                                                  199
+
+    [Illustration: Jupiter is the largest planet in the solar system—a
+    gaseous world as large as 1300 Earths, marked by alternating bands
+    of colored clouds and a dazzling complexity of storm systems. The
+    Voyager mission gave us our first close look at this spectacular
+    planet. [P-21085]]
+
+
+
+
+                               CHAPTER 1
+                           THE JOVIAN SYSTEM
+
+
+                              Introduction
+
+In the Sun’s necklace of planets, one gem far outshines the rest:
+Jupiter. Larger than all the other planets and satellites combined,
+Jupiter is a true giant. If intelligent beings exist on planets circling
+nearby stars, it is probable that Jupiter is the only member of our
+planetary system they can detect. They can see the Sun wobble in its
+motion with a twelve-year period as Jupiter circles it, pulling first
+one way, then the other with the powerful tug of its gravity. If
+astronomers on some distant worlds put telescopes in orbit above their
+atmospheres, they might even be able to detect the sunlight reflected
+from Jupiter. But all the other planets—including tiny inconspicuous
+Earth—would be hopelessly lost in the glare of our star, the Sun.
+
+Jupiter is outstanding among planets not only for its size, but also for
+its system of orbiting bodies. With fifteen known satellites, and
+probably several more too small to have been detected, it forms a sort
+of miniature solar system. If we could understand how the Jovian system
+formed and evolved, we could unlock vital clues to the beginning and
+ultimate fate of the entire solar system.
+
+Ancient peoples all over the world recognized Jupiter as one of the
+brightest wandering lights in their skies. Only Venus is brighter, but
+Venus, always a morning or evening star, never rules over the dark
+midnight skies as Jupiter often does. In Greek and Roman mythology the
+planet was identified with the most powerful of the gods and lord of the
+heavens—the Greek Zeus; the Roman Jupiter.
+
+As befits the king of the heavens, the planet Jupiter moves at a slow
+and stately pace. Twelve years are required for Jupiter to complete one
+orbit around the Sun. For about six months of each year, Jupiter shines
+down on us from the night sky, more brightly and steadily than any star.
+During the late 1970s it was a winter object, but in 1980 it will
+dominate the spring skies, becoming a summer “star” about 1982.
+
+
+                           Early Discoveries
+
+Even seen through a small telescope or pair of binoculars, Jupiter looks
+like a real world, displaying a faintly banded disk quite unlike the
+tiny, brilliant image of a star. It also reveals the brightest members
+of its satellite family as starlike points spread out along a straight
+line extended east-west through the planet. There are four of these
+planet-sized moons; with their orbits seen edge-on from Earth, they seem
+to move constantly back and forth, changing their configuration hourly.
+
+In January 1610, in his first attempt to apply the newly invented
+telescope to astronomy, Galileo discovered the four large satellites of
+Jupiter. He correctly interpreted their motion as being that of objects
+circling Jupiter—establishing the first clear proof of celestial motion
+around a center other than the Earth. The discovery of these satellites
+played an important role in supporting the Copernican revolution that
+formed the basis for modern astronomy.
+
+A few decades later the satellites of Jupiter were used to make the
+first measurement of the speed of light. Observers following their
+motions had learned that the satellite clock seemed to run slow when
+Jupiter was far from Earth and to speed up when the two planets were
+closer together. In 1675 the Danish astronomer Ole Roemer explained that
+this change was due to the finite velocity of light: The satellites only
+seemed to run slow at large distances because the light coming from them
+took longer to reach Earth. Knowing the dimensions of the orbits of
+Earth and Jupiter and the amount of the delay (about fifteen minutes),
+Roemer was able to calculate one of the most fundamental constants of
+the physical universe—the speed of light (about 300 000 kilometers per
+second).
+
+    [Illustration: Galileo’s notes summarizing his first observations of
+    the Jovian satellites Io, Europa, Ganymede, and Callisto in January
+    1610 were made on a piece of scratch paper containing the draft of a
+    letter presenting a telescope to the Doge in Venice. These
+    observations were the result of Galileo’s first attempt to apply the
+    telescope to astronomical research.]
+
+The four great moons of Jupiter are called the Galilean satellites after
+their discoverer. Their individual names—Io, Europa, Ganymede, and
+Callisto—were proposed by Simon Marius, a contemporary and rival of
+Galileo. (Marius claimed to have discovered the satellites a few weeks
+before Galileo did, but modern scholars tend to discredit his claim.)
+Io, Europa, Ganymede, and Callisto are names of lovers of the god
+Jupiter in Greco-Roman mythology. Since Jupiter was not at all shy about
+taking lovers, there are enough such names for the other eleven Jovian
+satellites, as well as for those yet to be discovered.
+
+In the century following Galileo’s death, improvements in telescopes
+made it possible to measure the size of Jupiter and to note that it
+bulged at the equator. The equatorial diameter is known today to be 142
+800 kilometers, while from pole to pole Jupiter measures only 133 500
+kilometers. For comparison, the diameter of the Earth is 12 900
+kilometers, only about one-tenth as great, and the flattening of Earth
+is also much smaller (less than one percent). By measuring the orbits of
+the satellites and applying the laws of planetary motion discovered by
+Johannes Kepler and Isaac Newton, astronomers were also able to
+determine the total mass of Jupiter—about 2 × 10²⁴ tons, or 318 times
+the mass of the Earth.
+
+Once the size and mass are known, it is possible to calculate another
+fundamental property of a planet—its density. The density, which is the
+mass divided by the volume, provides important clues to the composition
+and interior structure of a planetary body. The density of Earth, a body
+composed primarily of rocky and metallic materials, is 5.6 times the
+density of water. The mass of Jupiter is 318 times that of Earth; its
+volume is 1317 times that of Earth. Thus Jupiter’s density is
+substantially lower than Earth’s, amounting to 1.34 times the density of
+water. From this low density, it was evident long ago that Jupiter was
+not just a big brother of Earth and the other rocky planets in the inner
+solar system. Rather, Jupiter is the prototype of the giant, gas-rich
+planets Jupiter, Saturn, Uranus, and Neptune. These giant planets must,
+from their low density, have a composition fundamentally different from
+that of Mercury, Venus, Earth, Moon, and Mars.
