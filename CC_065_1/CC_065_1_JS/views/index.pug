@@ -1,5 +1,17 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+	.wrapper
+		.controller
+			.header.controller-padding Binary Search Tree
+			.controller-padding.control-container
+				.control-title#insertButton Insert Node
+				input.control-value#insertValue
+			.controller-padding.control-container
+				.control-title#removeButton Remove Node
+				input.control-value#removeValue
+			.controller-padding.control-container
+				.control-title#searchButton Search Node
+				input.control-value#searchValue
+		.display#sketch-holder
+
